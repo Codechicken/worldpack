@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Worldpack/Worldpack.csproj" />
+  <Project Path="Tests/Tests.csproj" Id="2713c6e2-a81d-4ca1-8d55-4feac2a2e6f7" />
+  <Project Path="Worldpack.API/Worldpack.API.csproj" />
+  <Project Path="Worldpack.Core/Worldpack.Core.csproj" />
+  <Project Path="Worldpack.Devel/Worldpack.Devel.csproj" />
+</Solution>
